@@ -21,18 +21,18 @@ The main idea of the project is to understand what is necessary to grow in this 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-* Q1 - Understand the target public (market search)
-* Q2 - People who follow travel profile, follow some specific hashtag related to travel?
-* Q3 - The amount of followers is related with the amount of posts that a profile have? ($\uparrow$ followers $\uparrow$ posts)
-* Q4 - Photo with people has more likes than without people? (relate people with likes)
-* Q5 - Hashtags is important to get likes? (relate likes with hashtags)
-* Q6 - Wich type of places have more likes?
+- Q1 - Understand the target public (market search)
+- Q2 - People who follow travel profile, follow some specific hashtag related to travel?
+- Q3 - The amount of followers is related with the amount of posts that a profile have? ($\uparrow$ followers $\uparrow$ posts)
+- Q4 - Photo with people has more likes than without people? (relate people with likes)
+- Q5 - Hashtags is important to get likes? (relate likes with hashtags)
+- Q6 - Wich type of places have more likes?
 
 <a name="dataset"></a>
 
 ## Dataset
-* Survey Collected
-* Data observation
+- Survey Collected
+- Data observation
 
 ### Survey
 
@@ -78,7 +78,5 @@ The project was a week long. The time was divided into 2 days of data collection
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello.
 
-[Repository](https://github.com/ciblois/Project-Week-6)
 [Dashboard](https://public.tableau.com/profile/cinthya.langue.blois#!/vizhome/Instagram_Profile_Statistics/slide1)
