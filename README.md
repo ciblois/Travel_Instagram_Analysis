@@ -52,7 +52,8 @@ The information collected was username, the number of followers for each profile
 
 ##### Note: The collection was made on 18 Nov 2020.
 
-[Dataset](Survey_TravelPhotosStudy.csv, instagram_clean.xlsx)
+[Dataset](https://github.com/ciblois/Travel_Instagram_Analysis/blob/main/instagram_clean.xlsx)
+[API Dataset](https://github.com/ciblois/Travel_Instagram_Analysis/blob/main/Survey_TravelPhotosStudy.csv)
 [Survey](https://docs.google.com/forms/d/e/1FAIpQLSf-oAPTcEn4HxK6SACGG5kJ6eNS8n1AFFHIUhmN05x3S1DCtg/viewform?usp=sf_link)
 
 <a name="workflow"></a>
